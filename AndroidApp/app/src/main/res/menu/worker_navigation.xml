@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    android:id="@+id/navigation_pendingworks"
+    android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+    android:title="Pending Works" />
+
+<item
+    android:id="@+id/navigation_completedworks"
+    android:icon="@drawable/ic_playlist_add_check_black_24dp"
+    android:title="Completed Works" />
+
+<item
+    android:id="@+id/navigation_myaccount"
+    android:icon="@drawable/ic_account_circle_black_24dp"
+    android:title="My Account" />
+
+<item
+    android:id="@+id/navigation_myearnings"
+    android:icon="@drawable/ic_attach_money_black_24dp"
+    android:title="My Earnings" />
+
+</menu>
